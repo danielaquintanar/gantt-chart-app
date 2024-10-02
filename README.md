@@ -17,6 +17,3 @@ Visually represents project timelines by displaying tasks, their durations, and 
 - **Dynamic Task Addition**: Easily add tasks by entering the necessary information via prompts.
 - **Responsive Layout**: The Gantt chart adjusts based on the number of tasks.
 
-### Additional Information
-
-Feel free to contribute by adding new features, improving the styles, or enhancing the functionality of the Gantt chart.
